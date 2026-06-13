@@ -35,7 +35,7 @@
   "devDependencies": {
     "@hankei6km/files-to-licenses": "^0.1.1",
     "@types/jest": "^30.0.0",
-    "@types/node": "^16.11.31",
+    "@types/node": "^25.5.0",
     "action-docs": "^2.5.1",
     "esbuild": "0.28.1",
     "jest": "^30.4.2",
